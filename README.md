@@ -32,4 +32,4 @@ La convergence de nos solveurs est validée par le **théorème d'Ostrowski-Reic
 ## 🚀 Installation & Utilisation
 1. **Clonez le dépôt :**
    ```bash
-   git clone [https://github.com/votre-utilisateur/votre-repo.git](https://github.com/votre-utilisateur/votre-repo.git)
+   git clone [https://github.com/mztteo/fraud-detection-linalg](https://github.com/mztteo/fraud-detection-linalg)
