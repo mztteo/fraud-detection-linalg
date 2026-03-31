@@ -84,7 +84,7 @@ def evaluate(X_test, y_test, w, b, threshold):
 
     print(f"\nMatrice de confusion :")
     print(f"  TN={tn:.0f}  FP={fp:.0f}")
-    print(f"  FN={fn:.0f}   TP={tp:.0f}")
+    print(f"  FN={fn:.0f}   TP={tp:.0f}") 
     print(f"\nRappel    : {rappel:.3f}")
     print(f"Précision : {precision:.3f}")
     print(f"ROC-AUC   : {auc:.3f}")
